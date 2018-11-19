@@ -21,9 +21,13 @@ Eclipse projects. Here's how the projects were restructured:
 
 * AndroidManifest.xml => catalanoAndroidImage/src/main/AndroidManifest.xml
 * res/ => catalanoAndroidImage/src/main/res/
+
 * src/ => catalanoAndroidImage/src/main/java/
+
 * src/Catalano/Imaging/ActiveContour/package.html => catalanoAndroidImage/src/main/resources/Catalano/Imaging/ActiveContour/package.html
+
 * src/Catalano/Imaging/Concurrent/Filters/package.html => catalanoAndroidImage/src/main/resources/Catalano/Imaging/Concurrent/Filters/package.html
+
 * src/Catalano/Imaging/Concurrent/package.html => catalanoAndroidImage/src/main/resources/Catalano/Imaging/Concurrent/package.html
 * src/Catalano/Imaging/Corners/package.html => catalanoAndroidImage/src/main/resources/Catalano/Imaging/Corners/package.html
 * src/Catalano/Imaging/Filters/Artistic/package.html => catalanoAndroidImage/src/main/resources/Catalano/Imaging/Filters/Artistic/package.html
